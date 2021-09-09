@@ -1,5 +1,5 @@
-#### ""In the absence of justice, what is sovereignty but organised brigandage?" ~ Saint Augustine
-⚡ Software developer who is passionate about everything FOSS and GNU/Linux related.
+#### "In the absence of justice, what is sovereignty but organised brigandage?" ~ Saint Augustine
+⚡ Software developer that's passionate about everything FOSS and GNU/Linux related.
 📫 For inquiries you can reach me at zponce@posteo.net
 
 <!--
