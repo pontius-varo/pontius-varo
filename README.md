@@ -1,4 +1,4 @@
-#### "In the absence of justice, what is sovereignty but organised brigandage?" ~ Saint Augustine
+#### "The world is a book, and those who do not travel read only a page." ~ Saint Augustine
 ⚡ Software developer that's passionate about everything FOSS and GNU/Linux related.
 
 📫 For inquiries you can reach me at zponce@posteo.net
