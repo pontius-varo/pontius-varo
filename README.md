@@ -1,4 +1,4 @@
-#### "The world is a book, and those who do not travel read only a page." ~ Saint Augustine
+#### “Words are truly the image of the soul.” ~ St. Basil the Great 
 ⚡ Software developer that's passionate about everything FOSS and GNU/Linux related.
 
 📫 For inquiries you can reach me at zponce@posteo.net
